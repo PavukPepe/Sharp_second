@@ -1,0 +1,14 @@
+C:\Users\serge\source\repos\Second_practice\Second_practice\bin\Debug\net6.0\Second_practice.exe
+C:\Users\serge\source\repos\Second_practice\Second_practice\bin\Debug\net6.0\Second_practice.deps.json
+C:\Users\serge\source\repos\Second_practice\Second_practice\bin\Debug\net6.0\Second_practice.runtimeconfig.json
+C:\Users\serge\source\repos\Second_practice\Second_practice\bin\Debug\net6.0\Second_practice.dll
+C:\Users\serge\source\repos\Second_practice\Second_practice\bin\Debug\net6.0\Second_practice.pdb
+C:\Users\serge\source\repos\Second_practice\Second_practice\obj\Debug\net6.0\Second_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\Second_practice\Second_practice\obj\Debug\net6.0\Second_practice.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\Second_practice\Second_practice\obj\Debug\net6.0\Second_practice.AssemblyInfo.cs
+C:\Users\serge\source\repos\Second_practice\Second_practice\obj\Debug\net6.0\Second_practice.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Second_practice\Second_practice\obj\Debug\net6.0\Second_practice.dll
+C:\Users\serge\source\repos\Second_practice\Second_practice\obj\Debug\net6.0\refint\Second_practice.dll
+C:\Users\serge\source\repos\Second_practice\Second_practice\obj\Debug\net6.0\Second_practice.pdb
+C:\Users\serge\source\repos\Second_practice\Second_practice\obj\Debug\net6.0\Second_practice.genruntimeconfig.cache
+C:\Users\serge\source\repos\Second_practice\Second_practice\obj\Debug\net6.0\ref\Second_practice.dll
